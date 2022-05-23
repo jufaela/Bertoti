@@ -24,7 +24,8 @@ No projeto fiquei encarregada de escrever a documentação e participar da equip
  Figma, JavaScript, CSS, Html.
 
 #### Soft Skills Efetivamente Desenvolvidas
-texto
+* Trabalho em equipe
+* Pensamento criativo
 
 #### Em 2021-2
 Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft.<br> texto.<br>
