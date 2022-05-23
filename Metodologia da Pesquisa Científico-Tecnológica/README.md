@@ -2,12 +2,16 @@
 
 # Olá, sou Júlia Rafaela
 
-Estudante de Banco de Dados, escritora online e estas são minhas experiências na Fatec SJC. Com o projeto da API pude desenvolver tanto minhas hards quanto softs skills, através do projeto tive uma noção do que estaria enfrentando no mercado de trabalho, hoje com mais experiencia, entendo que nada do que fiz foi sozinha, agradeço aos meus amigos e colegas que estiveram juntos nessa caminhada e a todos os professores que fizeram parte disso. 
+Estudante de Banco de Dados, estagiária de TI, e aqui mostro meus projetos feitos durante meu curso na FATEC-SJC. Com o projeto da API pude desenvolver tanto minhas hards quanto softs skills, através do projeto tive uma noção do que estaria enfrentando no mercado de trabalho. 
 
 # Meus Projetos
 
 #### Em 2021-1
-Trabalhei no projeto da API com o Parceiro Acadêmico Professor Egydio.<br> O projeto visava construir um site para uma ONG de ensino infantil (ONG Vó Maria Felix), no qual conectassem integrantes da ONG, alunos e voluntários. No site era possível cadastrar participantes, voluntários específicos, voluntários de apoio e projetos. Além disso havia a página inicial com as notícias e calendários de evento, página de apresentação da ONG, página de doações, página de atividades para as crianças e a página de projetos.<br>
+Trabalhei no projeto da API com o Parceiro Acadêmico Professor Egydio, meu grupo era composto por 5 membros, denominado de "DeskwarePI".<br> O projeto visava construir um site para uma ONG de ensino infantil (ONG Vó Maria Felix), no qual conectassem integrantes da ONG, alunos e voluntários. <br> No site era possível:
+* cadastrar participantes, 
+* voluntários específicos, 
+* voluntários de apoio e projetos. 
+<div> Além disso no site havia: a página inicial com as notícias e calendários de evento, página de apresentação da ONG, página de doações, página de atividades para as crianças e a página de projetos.<br></div>
 [GIT deskwarePI](https://github.com/DeskwarePI/API-VoMariaFelix)
 
 #### Tecnologias Utilizadas
