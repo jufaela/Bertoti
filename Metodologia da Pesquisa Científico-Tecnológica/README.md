@@ -31,25 +31,32 @@ No projeto fiquei encarregada de escrever a documentação e participar da equip
 * Pensamento criativo
 
 #### Em 2021-2
-Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft.<br> texto.<br>
-[link para o GIT](https://github.com/Inodevs)
+Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft, meu grupo era composto por 7 membros, denominado "Inodevs".<br> O objetivo do projeto era criar um CRUD para uma empresa de software com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Para concluir o onjetivo nós criamos um site, nele havia dois tipos de usuários, os colaboradores e o administrador. Os colaboradores só tinham acesso a página onde registravam sua presença. No site contém as páginas:
+* Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
+* Quadro Presença;
+* Lançamento do quadro de presenças;
+* Relatórios.<br>
+[Inodevs](https://github.com/Inodevs)
 
 #### Tecnologias Utilizadas
-Texto
+* Reuniões e Apresentações: Discord, WhatsApp e Microsoft Teams;
+* Banco de Dados: MySQL e Wampserver;
+* Back-end: PHP;
+* Front-end: HTML5, CSS e JavaScript;
+* Ferramentas: GitHub, VS Code, Canva, Excel e Figma.
 
 ## Contribuições Pessoais
-Texto
+Nesse projeto também fiquei encarregada pela documentação e frontend. Fizemos as telas no figma e depois passamos para o site funcional.
 
 #### Hard Skills Efetivamente Desenvolvidas
-Texto
+Figma, JavaScript, CSS, Html.
 
 #### Soft Skills Efetivamente Desenvolvidas
-Texto
-
+* Comunicação
+* Gerenciamento do tempo
 
 ## Meus Principais Conhecimentos
-lista texto
-
+Atualmente meus principais conhecimentos são na área do frontend: css e html.
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [meu GIT](https://github.com/jufaela)
+* [meu LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a)
