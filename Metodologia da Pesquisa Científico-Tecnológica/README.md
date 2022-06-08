@@ -31,7 +31,7 @@ No projeto fiquei encarregada de escrever a documentação e participar da equip
 * Pensamento criativo
 
 #### Em 2021-2
-Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft, meu grupo era composto por 7 membros, denominado "Inodevs".<br> O objetivo do projeto era criar um CRUD para uma empresa de software com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Para concluir o onjetivo nós criamos um site, nele havia dois tipos de usuários, os colaboradores e o administrador. Os colaboradores só tinham acesso a página onde registravam sua presença. No site contém as páginas:
+Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft, meu grupo era composto por 7 membros, denominado "Inodevs".<br> O objetivo do projeto era criar um CRUD para uma empresa de software com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato. Para concluir o objetivo nós criamos um site, nele havia dois tipos de usuários, os colaboradores e o administrador. Os colaboradores só tinham acesso a página onde registravam sua presença. No site contém as páginas:
 * Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
 * Quadro Presença;
 * Lançamento do quadro de presenças;
@@ -46,7 +46,7 @@ Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft, meu grupo era com
 * Ferramentas: GitHub, VS Code, Canva, Excel e Figma.
 
 ## Contribuições Pessoais
-Nesse projeto também fiquei encarregada pela documentação e frontend. Fizemos as telas no figma e depois passamos para o site funcional.
+Nesse projeto também fiquei encarregada pela documentação e frontend. Fizemos as telas no figma e depois passamos para o site funcional. Nossa maior dificuldade foi a responsividade do site, pois em algumas telas ele ficava responsivo e em outras ele bugava, conseguimos resolver o problema utilizando as unidade de medida em px e porcentagem no css. Através do css fiz a estilização dos textos do site, consegui colocar as mesmas cores do protótipo, além disso fiz o arredondamento dos botões e adicionei eventos aos botões, fiz uma tabela totalmente responsiva e consegui centralizar todas as divs.
 
 #### Hard Skills Efetivamente Desenvolvidas
 Figma, JavaScript, CSS, Html.
