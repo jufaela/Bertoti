@@ -46,7 +46,7 @@ Trabalhei no projeto da API com o Parceiro Acadêmico JetSoft, meu grupo era com
 * Ferramentas: GitHub, VS Code, Canva, Excel e Figma.
 
 ## Contribuições Pessoais
-Nesse projeto também fiquei encarregada pela documentação e frontend. Fizemos as telas no figma e depois passamos para o site funcional. Nossa maior dificuldade foi a responsividade do site, pois em algumas telas ele ficava responsivo e em outras ele bugava, conseguimos resolver o problema utilizando as unidade de medida em px e porcentagem no css. Através do css fiz a estilização dos textos do site, consegui colocar as mesmas cores do protótipo, além disso fiz o arredondamento dos botões e adicionei eventos aos botões, fiz uma tabela totalmente responsiva e consegui centralizar todas as divs.
+Nesse projeto também fiquei encarregada pela documentação e frontend. Fizemos as telas no figma e depois passamos para o site funcional. Nossa maior dificuldade foi a responsividade do site, pois em algumas telas ele ficava responsivo e em outras ele bugava, conseguimos resolver o problema utilizando as unidade de medida em px e porcentagem no css. Através do css fiz a estilização dos textos do site, consegui colocar as mesmas cores do protótipo, além disso fiz o arredondamento dos botões e adicionei eventos aos botões, fiz uma tabela totalmente responsiva e consegui centralizar todas as divs. Com o JavaScript fiz alguns alerts no site.
 
 #### Hard Skills Efetivamente Desenvolvidas
 Figma, JavaScript, CSS, Html.
