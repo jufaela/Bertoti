@@ -1,4 +1,4 @@
-Diagrama Estratégia
+Diagrama Estrategia
 
 
 
